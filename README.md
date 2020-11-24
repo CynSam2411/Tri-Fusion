@@ -26,6 +26,10 @@ def fusion(list1, list2):
 print(triFusion([7,24,19,17,10,6,1]))
 
 
+
+Cynthia Samouelian
+GD1.2
+
         
 
     
